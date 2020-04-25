@@ -1,2 +1,5 @@
-# repo-template
-Basic Repository Template
+# Repo Template
+
+> A Basic GitHub Repository Template
+
+---
