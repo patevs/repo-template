@@ -20,7 +20,7 @@ log(info("\n Checking for Outdated Node Modules \n"))
  * Check for outdated node modules
  */
 ;[
-  // Check yarn.lock exists else run `npm outdated`
+  // TODO: Check yarn.lock exists else run `npm outdated`
   { command: "yarn outdated & echo." },
 
   { command: "ncu --packageFile package.json & echo." },
