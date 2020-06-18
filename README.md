@@ -1,6 +1,6 @@
 # Repo Template
 
-> A Basic GitHub Repository Template
+> A Basic Repository Template for Generic Projects
 
 ---
 
