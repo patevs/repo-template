@@ -10,7 +10,7 @@
   },
   "scripts": {
     "commit": "git-cz",
-    "release": "np",
+    "release_": "np",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {},
