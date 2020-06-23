@@ -56,7 +56,7 @@
     "git": {
       "requireBranch": "master",
       "commit": true,
-      "commitMessage": ":bookmark: Release ${version}"
+      "commitMessage": ":bookmark: Release v${version}"
     },
     "github": {
       "release": true
