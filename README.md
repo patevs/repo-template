@@ -11,7 +11,7 @@
 * [`commitlint`](https://github.com/conventional-changelog/commitlint)
 * [`husky`](https://github.com/typicode/husky)
 * [`np`](https://github.com/sindresorhus/np)
-* [`release-it`](https://github.com/release-it/release-it)
+* [`release-it`](https://github.com/release-it/release-it) Automate versioning and package publishing
 
 ---
 
