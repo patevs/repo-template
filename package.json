@@ -51,5 +51,10 @@
     "publish": false,
     "preview": false,
     "releaseDraft": true
+  },
+  "release-it": {
+    "github": {
+      "release": true
+    }
   }
 }
