@@ -11,6 +11,7 @@
   "scripts": {
     "commit": "git-cz",
     "release_": "np",
+    "release": "release-it",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {},
