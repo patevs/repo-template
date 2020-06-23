@@ -45,12 +45,6 @@
       ]
     }
   },
-  "np": {
-    "yolo": false,
-    "publish": false,
-    "preview": false,
-    "releaseDraft": true
-  },
   "release-it": {
     "git": {
       "requireBranch": "master",
