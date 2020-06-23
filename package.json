@@ -53,6 +53,9 @@
     "releaseDraft": true
   },
   "release-it": {
+    "git": {
+      "requireBranch": "master"
+    },
     "github": {
       "release": true
     },
