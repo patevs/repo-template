@@ -8,6 +8,11 @@
     "type": "git",
     "url": "git+https://github.com/patevs/repo-template.git"
   },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6.8.0",
+    "git": ">=2.11"
+  },
   "scripts": {
     "commit": "git-cz",
     "release": "np",
