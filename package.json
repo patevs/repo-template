@@ -43,18 +43,5 @@
         "issues"
       ]
     }
-  },
-  "release-it": {
-    "git": {
-      "requireBranch": "master",
-      "commit": true,
-      "commitMessage": ":bookmark: Release v${version}"
-    },
-    "github": {
-      "release": true
-    },
-    "npm": {
-      "publish": false
-    }
   }
 }
