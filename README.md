@@ -10,11 +10,7 @@
   * [`cz-emoji`](https://github.com/ngryman/cz-emoji)
 * [`commitlint`](https://github.com/conventional-changelog/commitlint)
 * [`husky`](https://github.com/typicode/husky)
-
-[](.)
-
 * [`np`](https://github.com/sindresorhus/np) A better npm publish.
-* [`release-it`](https://github.com/release-it/release-it) Automate versioning and package publishing.
 
 ---
 
