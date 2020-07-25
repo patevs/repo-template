@@ -1,0 +1,19 @@
+{
+  "config": {
+    "commitizen": {
+      "path": "node_modules/@commitlint/prompt"
+    }
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "commit:retry": "git-cz --retry",
+    "commitmsg": "commitlint -e"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
+    "@commitlint/prompt": "^9.1.1",
+    "commitizen": "^4.1.2",
+    "husky": "^4.2.5"
+  }
+}
