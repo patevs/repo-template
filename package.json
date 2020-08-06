@@ -23,10 +23,5 @@
     "commitlint-config-gitmoji": "^1.0.1",
     "husky": "^4.2.5",
     "np": "^6.3.2"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   }
 }
